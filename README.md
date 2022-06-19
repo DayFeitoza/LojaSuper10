@@ -1,4 +1,4 @@
-<h1> Loja Super 10 </h1>
+![Logo Super10](https://user-images.githubusercontent.com/64825540/174503765-77569338-2c6f-4008-8cde-5f087556e6bd.png)
 
 > Implementação de um sistema de vendas para a loja Super 10.
 
