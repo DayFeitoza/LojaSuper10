@@ -47,15 +47,11 @@ Consultar Produtos
 
 ![Produtos](https://user-images.githubusercontent.com/64825540/175170585-de9429da-c19f-45d1-a701-19bf8c792412.jpeg)
 
+![Produtos2](https://user-images.githubusercontent.com/64825540/175171317-3bbe48e7-275d-4908-a548-bcb95c1d49c0.jpeg)
 
+<h3> Cadastro Pedido </h3>
 
+Pedidos
 
-###  Cadastro Pedido
-
-Consulta Pedido
-
-Cadastro Pedido
-
-Inserindo itens
 
 
