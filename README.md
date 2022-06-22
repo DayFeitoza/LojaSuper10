@@ -4,7 +4,7 @@
 
 <h2> Documentação </h2>
 
-### Tecnologias 
+<h3 Tecnologias </h3>
 
 <table>
   <tr>
@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-### Configurações
+<h3> Configurações </h3>
 
 Necessário a instalação dos itens abaixo
 
@@ -32,19 +32,19 @@ Isso pode ser encontrado na pasta Pages, vai ter apresentado todos os cadastros 
 
 OBS: Não foi criado a parte de SESSION para cada usuário criado.
 
-#  Forma de Utilização
+<h2> Telas Principais </h2>
 
-###  Login/Cadastro
+  <h3> Login/Cadastro </h3>
 
 Validado por e-mail e senha
 
+![TelaLogin](https://user-images.githubusercontent.com/64825540/175169969-563f5b0a-1a70-42ef-a303-ffa167250607.jpeg)
 
-Cadastro
 
+<h3> Produtos </h3>
 
-###  Cadastro Cliente
+Consultar Produtos
 
-Consultar Clientes
 
 
 Cadastro Cliente
