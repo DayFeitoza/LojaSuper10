@@ -45,17 +45,9 @@ Validado por e-mail e senha
 
 Consultar Produtos
 
+![Produtos](https://user-images.githubusercontent.com/64825540/175170585-de9429da-c19f-45d1-a701-19bf8c792412.jpeg)
 
 
-Cadastro Cliente
-
-
-###  Cadastro Produto
-
-Consulta Produto
-
-
-Cadastro Produto
 
 
 ###  Cadastro Pedido
