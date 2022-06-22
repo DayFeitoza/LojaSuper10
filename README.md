@@ -17,20 +17,11 @@
 
 <h2> Configurações </h2>
 
-Necessário a instalação dos itens abaixo
 
-- XAMPP
-- Pós- gresso
-
-Colocar arquivos do projeto dentro do pasta htdocs, lembrando que é necessário usar o banco de anexo no projeto, no arquivo dados_bd.tar
 
 <h2> Parecer Técnico </h2>
 
-Foi realizada a criação dos arquivos em formato de mvc, tudo se inicia no index.php, que realiza o login ou cadastro de um novo usuário, ou o cadastro dos itens usando seus arquivos separados e usando seu próprio login.
 
-Isso pode ser encontrado na pasta Pages, vai ter apresentado todos os cadastros presentes no sistema.
-
-OBS: Não foi criado a parte de SESSION para cada usuário criado.
 
 <h2> Telas Principais </h2>
 
