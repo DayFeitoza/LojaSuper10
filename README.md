@@ -8,11 +8,10 @@
 
 <table>
   <tr>
-    <td> HTML </td>
-    <td> Javascript </td>
-    <td> CSS </td>
-    <td> Angular </td>
     <td> Java </td>
+    <td> React </td>
+    <td> Postman </td>
+    <td> H2 </td>
   </tr>
 </table>
 
