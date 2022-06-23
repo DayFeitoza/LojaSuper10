@@ -12,6 +12,8 @@
     <li> React </li>
     <li> Postman </li>
     <li> H2 </li>
+    <li> JavaScript </li>
+    <li> TypeScript </li>
   </ul>
 
 
