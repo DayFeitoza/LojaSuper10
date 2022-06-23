@@ -1,4 +1,4 @@
-![Logo Super10](https://user-images.githubusercontent.com/64825540/174503765-77569338-2c6f-4008-8cde-5f087556e6bd.png)
+![Super1023 (1)](https://user-images.githubusercontent.com/64825540/175388012-83bedaf5-9689-4f9f-bc38-d4d20a67e677.png)
 
 > Implementação de um sistema de vendas para a loja Super 10.
 
