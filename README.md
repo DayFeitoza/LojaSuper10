@@ -20,15 +20,14 @@
 
 <h2> Configurações </h2>
 <p>Necessário a instalação dos itens abaixo </p>
-
-
-<h2> Parecer Técnico </h2>
 <ul>
     <li> SpringTools ou Eclips </li>
     <li> H2</li>
     <li> Postman </li>
     <li>  VsCode </li>
   </ul>
+  
+<h2> Parecer Técnico </h2>
 
 Comoo H2 é um banco de dados em memória, não é necessario sua intalação, e sim colocalo como dependencia do projeto no pom.xml.
 
