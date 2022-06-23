@@ -50,10 +50,19 @@ Consultar Produtos
 ![Produtos2](https://user-images.githubusercontent.com/64825540/175171317-3bbe48e7-275d-4908-a548-bcb95c1d49c0.jpeg)
 
 
-
   <h3> Cadastro Pedido </h3>
 
 Pedidos
 
 ![Pedidos](https://user-images.githubusercontent.com/64825540/175172177-c4aa2ee0-dde0-4e0e-a3ef-1edb5f6545f4.jpeg)
+
+![Produtos3](https://user-images.githubusercontent.com/64825540/175379594-92c4d30e-b630-43bf-b1b7-2cfbb9b90bd2.jpeg)
+
+<h3> Carrinho de Compras </h3>
+
+![Carrinho](https://user-images.githubusercontent.com/64825540/175379638-4ff4d5ca-ab41-4177-93ea-5e67f6fb4a2b.jpeg)
+
+<h3> Pagamento </h3>
+
+![Pagamento](https://user-images.githubusercontent.com/64825540/175379631-ebe617a4-365e-4e8d-a1f0-782f8fdea67c.jpeg)
 
