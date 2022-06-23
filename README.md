@@ -7,15 +7,15 @@
 <h2> Tecnologias </h2>
 
 <table>
-  <ul>
-    <li> Java </li>
-    <li> React </li>
-    <li> Postman </li>
-    <li> H2 </li>
-    <li> JavaScript </li>
-    <li> TypeScript </li>
-    <li> BootsTrap </li>
-  </ul>
+  <tr>
+    <td> Java </td>
+    <td> React </td>
+    <td> Postman </td>
+    <td> H2 </td>
+    <td> JavaScript </td>
+    <td> TypeScript </td>
+    <td> BootsTrap </td>
+  </tr>
 </table>
 
 <h2> Configurações </h2>
