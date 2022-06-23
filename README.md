@@ -31,7 +31,7 @@ Como o H2 é um banco de dados em memória, não é necessario sua intalação, 
 
 <h2> Parecer Técnico </h2>
 
-Tudo se inicia na tela de login, onde o usuário pode fazer o login através do google e firebase, assim que fizer o login terá acesso as roupas disponíveis, podendo ter acesso ao detalhamento de cada roupa.
+Tudo se inicia na tela de login, onde o usuário pode fazer o login através do google e firebase, assim que fizer o login terá acesso as roupas disponíveis, podendo ter acesso ao detalhamento de cada roupa, dos pedidos e por fim da tela de carrinho e pagamento.
 
 <h2> Telas Principais </h2>
 
