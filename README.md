@@ -21,7 +21,7 @@
 <h2> Configurações </h2>
 <p>Necessário a instalação dos itens abaixo </p>
 <ul>
-    <li> SpringTools ou Eclips </li>
+    <li> SpringTools ou Eclipse </li>
     <li> H2</li>
     <li> Postman </li>
     <li>  VsCode </li>
