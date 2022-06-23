@@ -6,7 +6,7 @@
 
 <h2> Tecnologias </h2>
 
-
+<table>
   <ul>
     <li> Java </li>
     <li> React </li>
@@ -16,7 +16,7 @@
     <li> TypeScript </li>
     <li> BootsTrap </li>
   </ul>
-
+</table>
 
 <h2> Configurações </h2>
 <p>Necessário a instalação dos itens abaixo </p>
