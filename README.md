@@ -6,14 +6,14 @@
 
 <h2> Tecnologias </h2>
 
-<table>
-  <tr>
-    <td> Java </td>
-    <td> React </td>
-    <td> Postman </td>
-    <td> H2 </td>
-  </tr>
-</table>
+
+  <ul>
+    <li> Java </li>
+    <li> React </li>
+    <li> Postman </li>
+    <li> H2 </li>
+  </ul>
+
 
 <h2> Configurações </h2>
 
